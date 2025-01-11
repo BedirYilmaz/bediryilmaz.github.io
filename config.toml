@@ -1,7 +1,5 @@
 # The URL the site will be built for
-base_url = "https://bediryilmaz.github.io"
-
-
+base_url = "https://bediryilmaz.github.io/"
 
 taxonomies = [
     { name = "tags", rss = true },
@@ -35,7 +33,7 @@ home = "home"
 sam_menu = [
     { text = "posts", link = "/posts" },
     { text = "about", link = "/about" },
-    { text = "github", link = "https://github.com" }
+    { text = "github", link = "https://github.com/BedirYilmaz" }
 ]
 
 sam_bottom_menu = true

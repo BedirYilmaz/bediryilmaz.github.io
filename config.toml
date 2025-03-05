@@ -74,7 +74,7 @@ social_image = "icons/github.svg"
 # The profile on home page.
 [extra.profile]
 name = "Bedir's Tech Blog"
-bio = "A blog where an ML Engineer posts about the things he wants to remember and be remembered with."
+bio = "where an ML Engineer posts about the things he wants to remember and be remembered with."
 # The URL of avatar.
 avatar_url = "icons/github.svg"
 # Invert color in dark mode.

@@ -76,7 +76,7 @@ social_image = "icons/github.svg"
 name = "Bedir's Blog"
 bio = "where an ML Engineer posts about the things he wants to remember and be remembered with."
 # The URL of avatar.
-avatar_url = "icons/github.svg"
+avatar_url = "icons/10108062.jpg"
 # Invert color in dark mode.
 avatar_invert = true
 

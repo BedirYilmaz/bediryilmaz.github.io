@@ -2,7 +2,7 @@
 base_url = "https://bediryilmaz.github.io"
 
 # The site title and description; used in feeds by default.
-title = "Bedir's Tech Blog"
+title = "Bedir's Blog"
 description = "It's a tech blog. But it contains posts about the everyday life of an ML Engineer too."
 
 theme = "kita"
@@ -73,7 +73,7 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "Bedir's Tech Blog"
+name = "Bedir's Blog"
 bio = "where an ML Engineer posts about the things he wants to remember and be remembered with."
 # The URL of avatar.
 avatar_url = "icons/github.svg"
